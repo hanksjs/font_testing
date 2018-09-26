@@ -23,7 +23,7 @@ class Login extends React.Component<Props, State> {
 const styles = StyleSheet.create({
 	fontTest: {
 		fontSize: 100,
-		fontFamily: Platform.OS === 'android'?"Knockout-53":"Knockout-53Heviweight"
+		fontFamily: 'Knockout-30JuniorWelterwt'
 	}
 })
 
